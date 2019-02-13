@@ -1,0 +1,30 @@
+{
+  "name": "conf-app",
+  "version": "1.0.0",
+  "description": "simple and nice conference web template with bootsrap 4.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamdjouduplex/conference-website-template.git"
+  },
+  "keywords": [
+    "conference",
+    "template",
+    "responsive-design",
+    "bootstrap-template"
+  ],
+  "author": "tonypro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamdjouduplex/conference-website-template/issues"
+  },
+  "homepage": "https://github.com/kamdjouduplex/conference-website-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
