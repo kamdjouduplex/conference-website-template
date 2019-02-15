@@ -1,0 +1,13 @@
+.masthead {
+  height: 350px;
+  height: 30vh;
+  min-height: 30px;
+  background-image: url('tyler.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.smile{
+	z-index: 2;
+
+}
