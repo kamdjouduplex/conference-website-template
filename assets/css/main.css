@@ -49,7 +49,7 @@ Landing video
 ***************************************/
 header {
     position: relative;
-    background-color: black;
+    background-color: #ddd;
     height: 75vh;
     min-height: 25rem;
     width: 100%;
